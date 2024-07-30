@@ -1,4 +1,13 @@
-## Hi there 👋
+Bem vindo ao meu perfil!
+
+*Meu nome é Nicolas Bueno*
+
+•Sou estudante
+
+•Utilizo esse espaço para desenvolver projetos e trabalhos.
+
+email:
+00001124586738sp@al.educacao.sp.gov.br
 
 <!--
 **NicolasBueno0/NicolasBueno0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
