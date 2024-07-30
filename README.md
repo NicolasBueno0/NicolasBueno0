@@ -9,6 +9,8 @@ Bem vindo ao meu perfil!
 email:
 00001124586738sp@al.educacao.sp.gov.br
 
+![](content://media/external/downloads/1000021367)
+
 <!--
 **NicolasBueno0/NicolasBueno0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
